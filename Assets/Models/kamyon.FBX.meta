@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 0b1ea44d3e89c244db82bb6fe9e13c7f
+timeCreated: 1509229314
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: ayna
+    100002: ayna01
+    100004: aynaalt
+    100006: aynaalt01
+    100008: Box03
+    100010: Box04
+    100012: cant
+    100014: cant01
+    100016: cant02
+    100018: cant03
+    100020: ChamferBox01
+    100022: ChamferBox02
+    100024: ChamferBox03
+    100026: ChamferBox04
+    100028: //RootNode
+    100030: lastikons02
+    100032: lastikons03
+    100034: lastikons04
+    100036: lastikons05
+    100038: Line01
+    100040: tampon01
+    400000: ayna
+    400002: ayna01
+    400004: aynaalt
+    400006: aynaalt01
+    400008: Box03
+    400010: Box04
+    400012: cant
+    400014: cant01
+    400016: cant02
+    400018: cant03
+    400020: ChamferBox01
+    400022: ChamferBox02
+    400024: ChamferBox03
+    400026: ChamferBox04
+    400028: //RootNode
+    400030: lastikons02
+    400032: lastikons03
+    400034: lastikons04
+    400036: lastikons05
+    400038: Line01
+    400040: tampon01
+    2300000: ayna
+    2300002: ayna01
+    2300004: aynaalt
+    2300006: aynaalt01
+    2300008: Box03
+    2300010: Box04
+    2300012: cant
+    2300014: cant01
+    2300016: cant02
+    2300018: cant03
+    2300020: ChamferBox01
+    2300022: ChamferBox02
+    2300024: ChamferBox03
+    2300026: ChamferBox04
+    2300028: lastikons02
+    2300030: lastikons03
+    2300032: lastikons04
+    2300034: lastikons05
+    2300036: tampon01
+    3300000: ayna
+    3300002: ayna01
+    3300004: aynaalt
+    3300006: aynaalt01
+    3300008: Box03
+    3300010: Box04
+    3300012: cant
+    3300014: cant01
+    3300016: cant02
+    3300018: cant03
+    3300020: ChamferBox01
+    3300022: ChamferBox02
+    3300024: ChamferBox03
+    3300026: ChamferBox04
+    3300028: lastikons02
+    3300030: lastikons03
+    3300032: lastikons04
+    3300034: lastikons05
+    3300036: tampon01
+    4300000: aynaalt
+    4300002: ayna
+    4300004: cant
+    4300006: ayna01
+    4300008: aynaalt01
+    4300010: ChamferBox01
+    4300012: tampon01
+    4300014: lastikons02
+    4300016: ChamferBox02
+    4300018: cant01
+    4300020: lastikons03
+    4300022: Box03
+    4300024: cant02
+    4300026: cant03
+    4300028: lastikons04
+    4300030: lastikons05
+    4300032: ChamferBox03
+    4300034: ChamferBox04
+    4300036: Box04
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

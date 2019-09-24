@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: 970ccab44f348e142950beed5d02ac8e
+timeCreated: 1525466176
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EventSchedulerWindow1
+    21300002: EventSchedulerWindow2
+    21300004: EventSchedulerListBG
+    21300006: OrderPresetEventPanel
+    21300008: EventDescriptionPanel
+    21300010: DispensarySchedulePanel
+    21300012: WhatsRequiredPanel
+    21300014: EventScheduler_Main_0
+    21300016: EventScheduler_Main_1
+    21300018: EventScheduler_Main_2
+    21300020: EventScheduler_Main_3
+    21300022: EventScheduler_Main_4
+    21300024: EventScheduler_Main_5
+    21300026: EventScheduler_Main_6
+    21300028: EventScheduler_Main_7
+    21300030: EventScheduler_Main_8
+    21300032: EventSchedulerWindowTitlePanel
+    21300034: EventScheduler_Main_9
+    21300036: EventScheduler_Main_10
+    21300038: EventScheduler_Main_11
+    21300040: EventScheduler_Main_12
+    21300042: EventScheduler_Main_13
+    21300044: EventScheduler_Main_14
+    21300046: EventScheduler_Main_15
+    21300048: EventScheduler_Main_16
+    21300050: EventScheduler_Main_17
+    21300052: EventScheduler_Main_18
+    21300054: EventScheduler_Main_19
+    21300056: EventScheduler_Main_20
+    21300058: EventScheduler_Main_21
+    21300060: EventScheduler_Main_22
+    21300062: EventScheduler_Main_23
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EventSchedulerWindow1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2703
+        width: 2585
+        height: 1411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventSchedulerWindow2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2585
+        height: 2628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventSchedulerListBG
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 2934
+        width: 2488
+        height: 1172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OrderPresetEventPanel
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 2321
+        width: 2189
+        height: 531
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventDescriptionPanel
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 1867
+        width: 2250
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DispensarySchedulePanel
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 1299
+        width: 2583
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WhatsRequiredPanel
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 11
+        width: 2488
+        height: 1171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_0
+      rect:
+        serializedVersion: 2
+        x: 5302
+        y: 3889
+        width: 1284
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_1
+      rect:
+        serializedVersion: 2
+        x: 5318
+        y: 3530
+        width: 838
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_2
+      rect:
+        serializedVersion: 2
+        x: 5320
+        y: 3268
+        width: 839
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_3
+      rect:
+        serializedVersion: 2
+        x: 6434
+        y: 3507
+        width: 58
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_4
+      rect:
+        serializedVersion: 2
+        x: 5319
+        y: 2894
+        width: 1076
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_5
+      rect:
+        serializedVersion: 2
+        x: 6537
+        y: 2894
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_6
+      rect:
+        serializedVersion: 2
+        x: 7193
+        y: 2821
+        width: 281
+        height: 1214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_7
+      rect:
+        serializedVersion: 2
+        x: 5101
+        y: 2550
+        width: 2435
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_8
+      rect:
+        serializedVersion: 2
+        x: 5102
+        y: 2290
+        width: 2435
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventSchedulerWindowTitlePanel
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 1893
+        width: 804
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_9
+      rect:
+        serializedVersion: 2
+        x: 5478
+        y: 1344
+        width: 303
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_10
+      rect:
+        serializedVersion: 2
+        x: 5826
+        y: 1344
+        width: 300
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_11
+      rect:
+        serializedVersion: 2
+        x: 6185
+        y: 1344
+        width: 300
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_12
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 1344
+        width: 300
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_13
+      rect:
+        serializedVersion: 2
+        x: 6893
+        y: 1343
+        width: 300
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_14
+      rect:
+        serializedVersion: 2
+        x: 5474
+        y: 1056
+        width: 622
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_15
+      rect:
+        serializedVersion: 2
+        x: 6163
+        y: 1074
+        width: 120
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_16
+      rect:
+        serializedVersion: 2
+        x: 6333
+        y: 1076
+        width: 120
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_17
+      rect:
+        serializedVersion: 2
+        x: 6528
+        y: 1067
+        width: 12
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_18
+      rect:
+        serializedVersion: 2
+        x: 5463
+        y: 501
+        width: 2193
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_19
+      rect:
+        serializedVersion: 2
+        x: 5470
+        y: 28
+        width: 2194
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_20
+      rect:
+        serializedVersion: 2
+        x: 6133
+        y: 1801
+        width: 303
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_21
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 1801
+        width: 303
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_22
+      rect:
+        serializedVersion: 2
+        x: 6852
+        y: 1800
+        width: 303
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_Main_23
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 1800
+        width: 303
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

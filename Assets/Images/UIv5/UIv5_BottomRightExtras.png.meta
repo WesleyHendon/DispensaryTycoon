@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: bf5e0a2bef768e94dafe9e6c9cd494b4
+timeCreated: 1517268164
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UIv5_BottomRightExtras_0
+    21300002: UIv5_BottomRightExtras_1
+    21300004: UIv5_BottomRightExtras_2
+    21300006: UIv5_BottomRightExtras_3
+    21300008: UIv5_BottomRightExtras_4
+    21300010: UIv5_BottomRightExtras_5
+    21300012: UIv5_BottomRightExtras_6
+    21300014: UIv5_BottomRightExtras_7
+    21300016: UIv5_BottomRightExtras_8
+    21300018: UIv5_BottomRightExtras_9
+    21300020: UIv5_BottomRightExtras_10
+    21300022: UIv5_BottomRightExtras_11
+    21300024: UIv5_BottomRightExtras_12
+    21300026: UIv5_BottomRightExtras_13
+    21300028: UIv5_BottomRightExtras_14
+    21300030: UIv5_BottomRightExtras_15
+    21300032: UIv5_BottomRightExtras_16
+    21300034: UIv5_BottomRightExtras_17
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UIv5_BottomRightExtras_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 424
+        height: 2949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIv5_BottomRightExtras_1
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 194
+        width: 2724
+        height: 2778
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIv5_BottomRightExtras_2
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 2594
+        width: 897
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIv5_BottomRightExtras_3
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 2173
+        width: 897
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIv5_BottomRightExtras_4
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 1731
+        width: 897
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIv5_BottomRightExtras_5
+      rect:
+        serializedVersion: 2
+        x: 4489
+        y: 2702
+        width: 1988
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIv5_BottomRightExtras_6
+      rect:
+        serializedVersion: 2
+        x: 4505
+        y: 2321
+        width: 1416
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIv5_BottomRightExtras_7
+      rect:
+        serializedVersion: 2
+        x: 6251
+        y: 2295
+        width: 231
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIv5_BottomRightExtras_8
+      rect:
+        serializedVersion: 2
+        x: 6252
+        y: 2005
+        width: 231
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIv5_BottomRightExtras_9
+      rect:
+        serializedVersion: 2
+        x: 6267
+        y: 1725
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIv5_BottomRightExtras_10
+      rect:
+        serializedVersion: 2
+        x: 6267
+        y: 1471
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIv5_BottomRightExtras_11
+      rect:
+        serializedVersion: 2
+        x: 4522
+        y: 1894
+        width: 492
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIv5_BottomRightExtras_12
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 728
+        width: 3344
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIv5_BottomRightExtras_13
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 36
+        width: 3342
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIv5_BottomRightExtras_14
+      rect:
+        serializedVersion: 2
+        x: 5901
+        y: 1887
+        width: 145
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIv5_BottomRightExtras_15
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 1884
+        width: 145
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIv5_BottomRightExtras_16
+      rect:
+        serializedVersion: 2
+        x: 5618
+        y: 1548
+        width: 145
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIv5_BottomRightExtras_17
+      rect:
+        serializedVersion: 2
+        x: 5901
+        y: 1551
+        width: 145
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

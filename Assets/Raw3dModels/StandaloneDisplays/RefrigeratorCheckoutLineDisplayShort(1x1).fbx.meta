@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: fc13f29c02ea5204882050687b125544
+timeCreated: 1551311895
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Camera.001
+    100004: Camera.002
+    100006: Cube
+    100008: Cube.001
+    100010: Cube.002
+    100012: Cylinder
+    100014: Lamp
+    100016: Lamp.001
+    100018: Lamp.002
+    100020: //RootNode
+    100022: Door
+    100024: DoorHinge
+    100026: DoorHingePiece
+    100028: Fridge
+    100030: Lamp.003
+    100032: Shelf
+    100034: Shelf.001
+    100036: Shelf.002
+    100038: Shelf.003
+    100040: Shelf.004
+    100042: Shelf.005
+    100044: Shelf.006
+    400000: Camera
+    400002: Camera.001
+    400004: Camera.002
+    400006: Cube
+    400008: Cube.001
+    400010: Cube.002
+    400012: Cylinder
+    400014: Lamp
+    400016: Lamp.001
+    400018: Lamp.002
+    400020: //RootNode
+    400022: Door
+    400024: DoorHinge
+    400026: DoorHingePiece
+    400028: Fridge
+    400030: Lamp.003
+    400032: Shelf
+    400034: Shelf.001
+    400036: Shelf.002
+    400038: Shelf.003
+    400040: Shelf.004
+    400042: Shelf.005
+    400044: Shelf.006
+    2000000: Camera
+    2000002: Camera.001
+    2000004: Camera.002
+    2100000: Material.002
+    2100002: No Name
+    2100004: Material
+    2100006: BlackPlastic
+    2100008: Rubber
+    2100010: Stainless Steel
+    2100012: Glass
+    2100014: TexturedWhitePlastic
+    2100016: WhiteGlass
+    2100018: GlossyBlack
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Cube.002
+    2300006: Cylinder
+    2300008: Door
+    2300010: DoorHinge
+    2300012: DoorHingePiece
+    2300014: Fridge
+    2300016: Shelf
+    2300018: Shelf.001
+    2300020: Shelf.002
+    2300022: Shelf.003
+    2300024: Shelf.004
+    2300026: Shelf.005
+    2300028: Shelf.006
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Cube.002
+    3300006: Cylinder
+    3300008: Door
+    3300010: DoorHinge
+    3300012: DoorHingePiece
+    3300014: Fridge
+    3300016: Shelf
+    3300018: Shelf.001
+    3300020: Shelf.002
+    3300022: Shelf.003
+    3300024: Shelf.004
+    3300026: Shelf.005
+    3300028: Shelf.006
+    4300000: Cube.002
+    4300002: Cylinder
+    4300004: Cube.001
+    4300006: Cube
+    4300008: DoorHinge
+    4300010: DoorHingePiece
+    4300012: Door
+    4300014: Fridge
+    4300016: Shelf.006
+    4300018: Shelf.005
+    4300020: Shelf.004
+    4300022: Shelf.003
+    4300024: Shelf.002
+    4300026: Shelf.001
+    4300028: Shelf
+    10800000: Lamp
+    10800002: Lamp.001
+    10800004: Lamp.002
+    10800006: Lamp.003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

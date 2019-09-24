@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Door
+  - Customer
+  - Road
+  - Sidewalk
+  - Sidewalk_2
+  - BuildableZone
+  - ExpandableX
+  - ExpandableZ
+  - Expandable_R
+  - Expandable_L
+  - Expandable_B
+  - Expandable_T
+  - Road_1
+  - Road_2
+  - Wall
+  - Tooltip
+  - Product
+  - CashRegister
+  - StoreObject
+  - Roof
+  - DisplayShelf
+  - CheckoutCounter
+  - Shelf
+  - StorageBox
+  - Vehicle
+  - SavegameButton
+  - DispensaryButton
+  - SupplierButton
+  - LogoDisplayButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Doorway
+  - unwalkable
+  - Floor
+  - Customer
+  - Sidewalk
+  - Road
+  - Crosswalk
+  - BuildingZone
+  - FloorTile
+  - Product
+  - Staff
+  - StoreObject
+  - Window
+  - Shelf
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TestLayer1
+    uniqueID: 289922925
+    locked: 0

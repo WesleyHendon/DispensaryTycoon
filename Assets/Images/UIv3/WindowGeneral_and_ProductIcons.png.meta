@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: e5f0e35939a859849b4f553e70097698
+timeCreated: 1505771250
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WindowGeneral_and_ProductIcons_0
+    21300002: WindowGeneral_and_ProductIcons_1
+    21300004: WindowGeneral_and_ProductIcons_2
+    21300006: WindowGeneral_and_ProductIcons_3
+    21300008: WindowGeneral_and_ProductIcons_4
+    21300010: WindowGeneral_and_ProductIcons_5
+    21300012: WindowGeneral_and_ProductIcons_6
+    21300014: WindowGeneral_and_ProductIcons_7
+    21300016: WindowGeneral_and_ProductIcons_8
+    21300018: WindowGeneral_and_ProductIcons_9
+    21300020: WindowGeneral_and_ProductIcons_10
+    21300022: WindowGeneral_and_ProductIcons_11
+    21300024: WindowGeneral_and_ProductIcons_12
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WindowGeneral_and_ProductIcons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5445
+        width: 14825
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WindowGeneral_and_ProductIcons_1
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 526
+        width: 2051
+        height: 2058
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WindowGeneral_and_ProductIcons_2
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 2832
+        width: 2058
+        height: 2059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WindowGeneral_and_ProductIcons_3
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 2787
+        width: 2058
+        height: 2059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WindowGeneral_and_ProductIcons_4
+      rect:
+        serializedVersion: 2
+        x: 6877
+        y: 2824
+        width: 2058
+        height: 2059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WindowGeneral_and_ProductIcons_5
+      rect:
+        serializedVersion: 2
+        x: 6877
+        y: 504
+        width: 2058
+        height: 2059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WindowGeneral_and_ProductIcons_6
+      rect:
+        serializedVersion: 2
+        x: 4571
+        y: 527
+        width: 2058
+        height: 2059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WindowGeneral_and_ProductIcons_7
+      rect:
+        serializedVersion: 2
+        x: 9986
+        y: 4069
+        width: 481
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WindowGeneral_and_ProductIcons_8
+      rect:
+        serializedVersion: 2
+        x: 10569
+        y: 4073
+        width: 484
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WindowGeneral_and_ProductIcons_9
+      rect:
+        serializedVersion: 2
+        x: 11148
+        y: 4076
+        width: 479
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WindowGeneral_and_ProductIcons_10
+      rect:
+        serializedVersion: 2
+        x: 12369
+        y: 53
+        width: 159
+        height: 4428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WindowGeneral_and_ProductIcons_11
+      rect:
+        serializedVersion: 2
+        x: 13359
+        y: 0
+        width: 154
+        height: 4903
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WindowGeneral_and_ProductIcons_12
+      rect:
+        serializedVersion: 2
+        x: 13894
+        y: 4108
+        width: 709
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

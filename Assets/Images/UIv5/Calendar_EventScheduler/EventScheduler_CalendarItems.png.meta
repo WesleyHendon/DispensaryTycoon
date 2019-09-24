@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 33b2121ea0329494ba029f33caf26e57
+timeCreated: 1525466175
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EventScheduler_CalendarItems_0
+    21300002: EventScheduler_CalendarItems_1
+    21300004: EventScheduler_CalendarItems_2
+    21300006: EventScheduler_CalendarItems_3
+    21300008: EventScheduler_CalendarItems_4
+    21300010: EventScheduler_CalendarItems_5
+    21300012: EventScheduler_CalendarItems_6
+    21300014: EventScheduler_CalendarItems_7
+    21300016: EventScheduler_CalendarItems_8
+    21300018: EventScheduler_CalendarItems_9
+    21300020: EventScheduler_CalendarItems_10
+    21300022: EventScheduler_CalendarItems_11
+    21300024: EventScheduler_CalendarItems_12
+    21300026: EventScheduler_CalendarItems_13
+    21300028: EventScheduler_CalendarItems_14
+    21300030: EventScheduler_CalendarItems_15
+    21300032: EventScheduler_CalendarItems_16
+    21300034: EventScheduler_CalendarItems_17
+    21300036: EventScheduler_CalendarItems_18
+    21300038: EventScheduler_CalendarItems_19
+    21300040: EventScheduler_CalendarItems_20
+    21300042: EventScheduler_CalendarItems_21
+    21300044: EventScheduler_CalendarItems_22
+    21300046: EventScheduler_CalendarItems_23
+    21300048: EventScheduler_CalendarItems_24
+    21300050: EventScheduler_CalendarItems_25
+    21300052: EventScheduler_CalendarItems_26
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 1301
+        height: 1350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_1
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1265
+        width: 840
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_2
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1114
+        width: 526
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_3
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1114
+        width: 526
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_4
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 974
+        width: 526
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_5
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 974
+        width: 526
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_6
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 830
+        width: 526
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_7
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 830
+        width: 526
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_8
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 687
+        width: 526
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_9
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 687
+        width: 526
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 519
+        width: 1112
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_11
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 519
+        width: 1112
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 343
+        width: 1112
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_13
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 343
+        width: 1112
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 170
+        width: 1112
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_15
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 170
+        width: 1112
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_16
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 1112
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_17
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 0
+        width: 1112
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_18
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1875
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_19
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1749
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_20
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1629
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_21
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1505
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_22
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1823
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_23
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1705
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_24
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1598
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_25
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1499
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EventScheduler_CalendarItems_26
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1502
+        width: 146
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
