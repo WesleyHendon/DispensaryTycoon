@@ -73,7 +73,7 @@ public class StoreObjectFunction_BudtenderCounter : MonoBehaviour
 
     [Header("Priority")]
     public bool priority;
-    public bool Priority()
+    public bool HasPriority()
     {
         return priority;
     }

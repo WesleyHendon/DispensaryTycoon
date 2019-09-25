@@ -227,7 +227,7 @@ public class StoreObjectFunction_Doorway : MonoBehaviour
 
     [Header("Priority")]
     public bool priority;
-    public bool Priority()
+    public bool HasPriority()
     {
         return priority;
     }

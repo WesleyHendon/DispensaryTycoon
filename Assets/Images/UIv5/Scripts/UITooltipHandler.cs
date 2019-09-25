@@ -133,7 +133,8 @@ public class UITooltipHandler : MonoBehaviour
                 }
             }
             GUIStyle style = GUI.skin.textField;
-            GUIContent tooltip = new GUIContent(newString, new Texture());
+            Texture nullTexture = null;
+            GUIContent tooltip = new GUIContent(newString, nullTexture);
             Vector2 size = style.CalcSize(tooltip);
             GUIStyle boxStyle = new GUIStyle(GUI.skin.box);
             //style.normal.textColor = Color.black;

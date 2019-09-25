@@ -1,35 +1,81 @@
 fileFormatVersion: 2
 guid: 672f5355d60093149b90a18d86a2f361
-timeCreated: 1522132569
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: InventorySmallItems_0
-    21300002: InventorySmallItems_1
-    21300004: InventorySmallItems_2
-    21300006: InventorySmallItems_3
-    21300008: InventorySmallItems_4
-    21300010: InventorySmallItems_5
-    21300012: InventorySmallItems_6
-    21300014: InventorySmallItems_7
-    21300016: InventorySmallItems_8
-    21300018: InventorySmallItems_9
-    21300020: InventorySmallItems_10
-    21300022: InventorySmallItems_11
-    21300024: InventorySmallItems_12
-    21300026: InventorySmallItems_13
-    21300028: InventorySmallItems_14
-    21300030: InventorySmallItems_15
-    21300032: InventorySmallItems_16
-    21300034: InventorySmallItems_17
-    21300036: InventorySmallItems_18
-    21300038: InventorySmallItems_19
-    21300040: InventorySmallItems_20
-    21300042: InventorySmallItems_21
-    21300044: InventorySmallItems_22
-    21300046: InventorySmallItems_23
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: InventorySmallItems_0
+  - first:
+      213: 21300002
+    second: InventorySmallItems_1
+  - first:
+      213: 21300004
+    second: InventorySmallItems_2
+  - first:
+      213: 21300006
+    second: InventorySmallItems_3
+  - first:
+      213: 21300008
+    second: InventorySmallItems_4
+  - first:
+      213: 21300010
+    second: InventorySmallItems_5
+  - first:
+      213: 21300012
+    second: InventorySmallItems_6
+  - first:
+      213: 21300014
+    second: InventorySmallItems_7
+  - first:
+      213: 21300016
+    second: InventorySmallItems_8
+  - first:
+      213: 21300018
+    second: InventorySmallItems_9
+  - first:
+      213: 21300020
+    second: InventorySmallItems_10
+  - first:
+      213: 21300022
+    second: InventorySmallItems_11
+  - first:
+      213: 21300024
+    second: InventorySmallItems_12
+  - first:
+      213: 21300026
+    second: InventorySmallItems_13
+  - first:
+      213: 21300028
+    second: InventorySmallItems_14
+  - first:
+      213: 21300030
+    second: InventorySmallItems_15
+  - first:
+      213: 21300032
+    second: InventorySmallItems_16
+  - first:
+      213: 21300034
+    second: InventorySmallItems_17
+  - first:
+      213: 21300036
+    second: InventorySmallItems_18
+  - first:
+      213: 21300038
+    second: InventorySmallItems_19
+  - first:
+      213: 21300040
+    second: InventorySmallItems_20
+  - first:
+      213: 21300042
+    second: InventorySmallItems_21
+  - first:
+      213: 21300044
+    second: InventorySmallItems_22
+  - first:
+      213: 21300046
+    second: InventorySmallItems_23
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -47,6 +93,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -57,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: -1
@@ -69,18 +117,21 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -90,7 +141,9 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Standalone
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -100,6 +153,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -117,6 +171,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_1
       rect:
@@ -131,6 +192,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_2
       rect:
@@ -145,6 +213,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_3
       rect:
@@ -159,6 +234,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_4
       rect:
@@ -173,6 +255,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_5
       rect:
@@ -187,6 +276,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_6
       rect:
@@ -201,6 +297,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_7
       rect:
@@ -215,6 +318,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_8
       rect:
@@ -229,6 +339,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_9
       rect:
@@ -243,6 +360,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_10
       rect:
@@ -257,6 +381,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_11
       rect:
@@ -271,6 +402,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_12
       rect:
@@ -285,6 +423,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_13
       rect:
@@ -299,6 +444,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_14
       rect:
@@ -313,6 +465,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_15
       rect:
@@ -327,6 +486,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_16
       rect:
@@ -341,6 +507,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_17
       rect:
@@ -355,6 +528,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_18
       rect:
@@ -369,6 +549,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_19
       rect:
@@ -383,6 +570,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_20
       rect:
@@ -397,6 +591,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_21
       rect:
@@ -411,6 +612,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_22
       rect:
@@ -425,6 +633,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: InventorySmallItems_23
       rect:
@@ -439,9 +654,26 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

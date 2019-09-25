@@ -24,10 +24,8 @@ public class Dispensary : MonoBehaviour
     private Logo storeLogo;
     public Logo StoreLogo
     {
-        get {
-            return (storeLogo != null)
-              ? storeLogo
-              : db.GetLogo(storeLogoID); }
+        get { // return storeLogo if it exists, else return logo retrieved from database
+            return storeLogo ?? db.GetLogo(storeLogoID); }
         set {
             storeLogo = value; }
     }

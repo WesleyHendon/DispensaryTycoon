@@ -213,28 +213,28 @@ public class StoreObjectReference
         StoreObjectModifier_Handler modifierHandler = gameObject_.GetComponent<StoreObjectModifier_Handler>();
         if (functionHandler.HasBudtenderCounterFunction())
         {
-            if (functionHandler.GetBudtenderCounterFunction().Priority()) // Make sure only one modifier/function is marked as priority on each object
+            if (functionHandler.GetBudtenderCounterFunction().HasPriority()) // Make sure only one modifier/function is marked as priority on each object
             {
                 return "Budtender Counter";
             }
         }
         if (functionHandler.HasCheckoutCounterFunction())
         {
-            if (functionHandler.GetCheckoutCounterFunction().Priority()) // Make sure only one modifier/function is marked as priority on each object
+            if (functionHandler.GetCheckoutCounterFunction().HasPriority()) // Make sure only one modifier/function is marked as priority on each object
             {
                 return "Checkout Counter";
             }
         }
         if (functionHandler.HasDecorationFunction())
         {
-            if (functionHandler.GetDecorationFunction().Priority()) // Make sure only one modifier/function is marked as priority on each object
+            if (functionHandler.GetDecorationFunction().HasPriority()) // Make sure only one modifier/function is marked as priority on each object
             {
                 return "Decoration";
             }
         }
         if (functionHandler.HasDisplayShelfFunction())
         {
-            if (functionHandler.GetDisplayShelfFunction().Priority()) // Make sure only one modifier/function is marked as priority on each object
+            if (functionHandler.GetDisplayShelfFunction().HasPriority()) // Make sure only one modifier/function is marked as priority on each object
             {
                 if (components.Contains("MainStore"))
                 {
@@ -248,7 +248,7 @@ public class StoreObjectReference
         }
         if (functionHandler.HasDoorwayFunction())
         {
-            if (functionHandler.GetDoorwayFunction().Priority()) // Make sure only one modifier/function is marked as priority on each object
+            if (functionHandler.GetDoorwayFunction().HasPriority()) // Make sure only one modifier/function is marked as priority on each object
             {
                 return "Doorway";
             }

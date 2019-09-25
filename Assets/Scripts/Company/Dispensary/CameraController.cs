@@ -493,7 +493,7 @@ public class CameraController : MonoBehaviour
         }
         catch (NullReferenceException)
         {
-            print("Null");
+            print("Null error in camera controller.  Needs new controller for unity 2019");
         }
     }
 

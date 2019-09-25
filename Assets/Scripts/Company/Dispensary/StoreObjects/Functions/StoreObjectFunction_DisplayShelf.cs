@@ -324,7 +324,7 @@ public class StoreObjectFunction_DisplayShelf : MonoBehaviour
 
     // handled in custom editor script
     public bool priority;
-    public bool Priority()
+    public bool HasPriority()
     {
         return priority;
     }

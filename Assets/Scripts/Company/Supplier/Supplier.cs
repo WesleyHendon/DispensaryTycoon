@@ -25,7 +25,7 @@ public class Supplier : MonoBehaviour
     }
 
     public Supplier_s MakeSerializable()
-    {
+    { 
         Supplier_s toReturn = null;
         toReturn = new Supplier_s(supplierName, supplierNumber, supplierRating, cashAmount, bankAmount);
         return toReturn;
