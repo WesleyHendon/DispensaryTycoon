@@ -94,7 +94,7 @@ public class UIManager_v5 : MonoBehaviour
         try
         {
             companyNameText.text = dm.currentCompany.companyName;
-            dispensaryNameText.text = dm.dispensary.dispensaryName;
+            dispensaryNameText.text = dm.dispensary.DispensaryName;
         }
         catch (NullReferenceException)
         {

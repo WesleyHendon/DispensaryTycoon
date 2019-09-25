@@ -5,7 +5,7 @@ using System.Collections;
 using System.Collections.Generic;
 using DispensaryTycoon;
 
-public class Dispensary : MonoBehaviour
+public class Dispensary : Building
 {
     public static int uniqueLogoIDCounter;
     public static int uniqueStoreObjectIDCounter; // gets set to each new object, and goes up 1 when doing so
@@ -17,7 +17,11 @@ public class Dispensary : MonoBehaviour
 
     public string parentCompanyName;
     // General
-    public string dispensaryName;
+    public string DispensaryName
+    {
+        get { return BuildingName; }
+        set { BuildingName = value; }
+    }
     public int dispensaryNumber;
 	public int buildingNumber;
     public int storeLogoID;
@@ -359,7 +363,7 @@ public class Dispensary : MonoBehaviour
 
     public void SetupDispensary()
 	{
-		dispensaryName = "My Dispensary";
+		DispensaryName = "My Dispensary";
 		UpdateComponentLists ();
         staffObjectsParent = new GameObject("Staff");
         staffObjectsParent.transform.parent = gameObject.transform;
@@ -367,7 +371,7 @@ public class Dispensary : MonoBehaviour
 
 	public void SetupDispensary(string Name, int buildingNumber_)
 	{
-		dispensaryName = Name;
+		DispensaryName = Name;
         buildingNumber = buildingNumber_;
 		UpdateComponentLists ();
 		staffObjectsParent = new GameObject ("Staff");
@@ -378,7 +382,7 @@ public class Dispensary : MonoBehaviour
 
 	public void SetupDispensary(string Name, int buildingNumber_, bool new_)
 	{
-		dispensaryName = Name;
+		DispensaryName = Name;
         buildingNumber = buildingNumber_;
         storeRating = new Rating();
 		isNew = new_;
@@ -1573,11 +1577,11 @@ public class Dispensary : MonoBehaviour
 		Dispensary_s toReturn = null;
 		if (dm != null)
 		{
-			toReturn = new Dispensary_s (dm.buildableDimensions, dispensaryName, buildingNumber, storeRating, cashAmount, bankAmount);
+			toReturn = new Dispensary_s (dm.buildableDimensions, DispensaryName, buildingNumber, storeRating, cashAmount, bankAmount);
 		} 
 		else
 		{
-			toReturn = new Dispensary_s (dispensaryName, buildingNumber, storeRating, cashAmount, bankAmount);
+			toReturn = new Dispensary_s (DispensaryName, buildingNumber, storeRating, cashAmount, bankAmount);
 		}
         if (dm != null)
         {
